@@ -1,0 +1,2 @@
+/usr/bin/ar qc libapla.a  
+/usr/bin/ranlib libapla.a
